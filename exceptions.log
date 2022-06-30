@@ -1,0 +1,12 @@
+Исключение: Аттрибут value не определен
+В файле: C:\Users\Alexander\php-trainee\21\index.php
+В строке: 58
+#0 C:\Users\Alexander\php-trainee\21\index.php(76): User->__set('value', 'qqq')
+#1 {main}
+
+Исключение: Аттрибут value не определен
+В файле: C:\Users\Alexander\php-trainee\21\index.php
+В строке: 58
+#0 C:\Users\Alexander\php-trainee\21\index.php(76): User->__set('value', 'qqq')
+#1 {main}
+
